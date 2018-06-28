@@ -4,11 +4,9 @@ A Modified Version of Background Cycle jQuery plugin
 
 Original plugin: https://www.jqueryscript.net/slideshow/Simple-jQuery-Background-Image-Slideshow-with-Fade-Transitions-Background-Cycle.html
 
-The original plugin transition images automatically. I needed a plugin that changes image only when a button is clicked.
+The original plugin transition images automatically. I needed a plugin that changes image only when a button is clicked. This modified plugin serves that purpose.
 
-This modified version serves that purpose.
-
-Example:
+Example Usage:
 
 ```
 <script>
