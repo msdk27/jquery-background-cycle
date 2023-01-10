@@ -28,6 +28,6 @@ $('.link').click(function (e) {
     const currentImageId = 1;   // Change according to your needs
 
     bgCycle.cycleToNextImage(previousImageId, currentImageId);
-}
+})
 </script>
 ```
